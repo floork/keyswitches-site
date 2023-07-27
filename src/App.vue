@@ -33,6 +33,7 @@
 <script setup lang="ts">
 import Fuse from 'fuse.js';
 import { onMounted, ref } from 'vue';
+import jsondata from './switches.json';
 
 class Switch {
   constructor(model, feel, actuation, preTravel, totalTravel, mount) {
@@ -53,16 +54,8 @@ const options = {
   threshold: 0.3, // Adjust the threshold for fuzzy matching
 };
 
-async function fetchData() {
-  try {
-    const response = await fetch('http://127.0.0.1:5000/api/switches');
-    const data = await response.json();
-    const switchData = data.map(item => new Switch(item.model, item.feel, item.actuation, item.preTravel, item.totalTravel, item.mount));
-    switches.value = switchData;
-    filteredSwitches.value = switchData; // Initially show all rows
-  } catch (error) {
-    console.error('Error fetching data:', error);
-  }
+function getData(){
+  switches.value = jsondata.map((data) => new Switch(data.model, data.feel, data.actuation, data.preTravel, data.totalTravel, data.mount));
 }
 
 function customSearch(query) {
@@ -76,8 +69,10 @@ function performSearch() {
 }
 
 onMounted(() => {
-  fetchData();
+  getData();
+  performSearch();
 });
+
 </script>
 
 

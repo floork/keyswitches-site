@@ -1,0 +1,4338 @@
+[
+  {
+    "model": "Ajazz Diced Fruit Banana",
+    "feel": "Tactile",
+    "actuation": "40g",
+    "pre_travel": "1.9mm",
+    "total_travel": "3.3mm",
+    "mount": "Plate"
+  },
+  {
+    "model": "Ajazz Diced Fruit Blueberry",
+    "feel": "Linear",
+    "actuation": "48g",
+    "pre_travel": "2.0mm",
+    "total_travel": "3.8mm",
+    "mount": "Plate"
+  },
+  {
+    "model": "Ajazz Diced Fruit Kiwi",
+    "feel": "Tactile",
+    "actuation": "50g",
+    "pre_travel": "1.9mm",
+    "total_travel": "3.3mm",
+    "mount": "Plate"
+  },
+  {
+    "model": "Ajazz Diced Fruit Peach",
+    "feel": "Linear",
+    "actuation": "40g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "Plate"
+  },
+  {
+    "model": "Ajazz AS Foggy Mountain Green",
+    "feel": "Linear",
+    "actuation": "45g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "Plate"
+  },
+  {
+    "model": "Ajazz AS Red Spirit",
+    "feel": "Linear",
+    "actuation": "37g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "Plate"
+  },
+  {
+    "model": "Ajazz AS Sky Blue",
+    "feel": "Tactile",
+    "actuation": "50g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "Plate"
+  },
+  {
+    "model": "Ajazz AS Sunrise Yellow",
+    "feel": "Linear",
+    "actuation": "45g",
+    "pre_travel": "1.2mm",
+    "total_travel": "3.5mm",
+    "mount": "Plate"
+  },
+  {
+    "model": "Akko CS Air",
+    "feel": "Linear",
+    "actuation": "48g",
+    "pre_travel": "1.9mm",
+    "total_travel": "4.0mm",
+    "mount": "Plate"
+  },
+  {
+    "model": "Akko CS Crystal Blue",
+    "feel": "Linear",
+    "actuation": "40g",
+    "pre_travel": "1.6mm",
+    "total_travel": "4.0mm",
+    "mount": "Plate"
+  },
+  {
+    "model": "Akko CS Crystal Silver",
+    "feel": "Linear",
+    "actuation": "43g",
+    "pre_travel": "1.0mm",
+    "total_travel": "3.0mm",
+    "mount": "Plate"
+  },
+  {
+    "model": "Akko CS Crystal Wine Red",
+    "feel": "Linear",
+    "actuation": "45g",
+    "pre_travel": "1.6mm",
+    "total_travel": "3.6mm",
+    "mount": "Plate"
+  },
+  {
+    "model": "Akko CS Crystal",
+    "feel": "Linear",
+    "actuation": "43g",
+    "pre_travel": "1.6mm",
+    "total_travel": "4.0mm",
+    "mount": "Plate"
+  },
+  {
+    "model": "Akko CS Jelly Black",
+    "feel": "Linear",
+    "actuation": "45g",
+    "pre_travel": "1.9mm",
+    "total_travel": "4.0mm",
+    "mount": "Plate"
+  },
+  {
+    "model": "Akko CS Jelly Blue",
+    "feel": "Tactile",
+    "actuation": "40g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "Plate"
+  },
+  {
+    "model": "Akko CS Jelly Pink",
+    "feel": "Linear",
+    "actuation": "45g",
+    "pre_travel": "1.9mm",
+    "total_travel": "4.0mm",
+    "mount": "Plate"
+  },
+  {
+    "model": "Akko CS Jelly Purple",
+    "feel": "Tactile",
+    "actuation": "40g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "Plate"
+  },
+  {
+    "model": "Akko CS Jelly White",
+    "feel": "Linear",
+    "actuation": "35g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "Plate"
+  },
+  {
+    "model": "Akko CS Lavender Purple",
+    "feel": "Tactile",
+    "actuation": "36g",
+    "pre_travel": "1.9mm",
+    "total_travel": "4.0mm",
+    "mount": "Plate"
+  },
+  {
+    "model": "Akko CS Piano",
+    "feel": "Linear",
+    "actuation": "48g",
+    "pre_travel": "1.9mm",
+    "total_travel": "3.5mm",
+    "mount": "Plate"
+  },
+  {
+    "model": "Akko CS Matcha Green",
+    "feel": "Linear",
+    "actuation": "50g",
+    "pre_travel": "1.9mm",
+    "total_travel": "4.0mm",
+    "mount": "Plate"
+  },
+  {
+    "model": "Akko CS Ocean Blue",
+    "feel": "Tactile",
+    "actuation": "45g",
+    "pre_travel": "1.9mm",
+    "total_travel": "4.0mm",
+    "mount": "Plate"
+  },
+  {
+    "model": "Akko CS Radiant Red",
+    "feel": "Linear",
+    "actuation": "53g",
+    "pre_travel": "1.9mm",
+    "total_travel": "3.5mm",
+    "mount": "Plate"
+  },
+  {
+    "model": "Akko CS Rose Red",
+    "feel": "Linear",
+    "actuation": "43g",
+    "pre_travel": "1.9mm",
+    "total_travel": "4.0mm",
+    "mount": "Plate"
+  },
+  {
+    "model": "Akko CS Sakura",
+    "feel": "Linear",
+    "actuation": "39g",
+    "pre_travel": "1.9mm",
+    "total_travel": "4.0mm",
+    "mount": "Plate"
+  },
+  {
+    "model": "Akko CS Silver",
+    "feel": "Linear",
+    "actuation": "45g",
+    "pre_travel": "1.0mm",
+    "total_travel": "3.0mm",
+    "mount": "Plate"
+  },
+  {
+    "model": "Akko CS Snow Blue Grey",
+    "feel": "Linear",
+    "actuation": "43g",
+    "pre_travel": "1.0mm",
+    "total_travel": "3.0mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "Akko CS Sponge",
+    "feel": "Tactile",
+    "actuation": "40g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "Plate"
+  },
+  {
+    "model": "Akko CS Starfish",
+    "feel": "Linear",
+    "actuation": "50g",
+    "pre_travel": "1.9mm",
+    "total_travel": "4.0mm",
+    "mount": "Plate"
+  },
+  {
+    "model": "Akko CS Vintage White",
+    "feel": "Linear",
+    "actuation": "35g",
+    "pre_travel": "1.9mm",
+    "total_travel": "4.0mm",
+    "mount": "Plate"
+  },
+  {
+    "model": "Akko CS White Wine",
+    "feel": "Tactile",
+    "actuation": "35g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "Plate"
+  },
+  {
+    "model": "Akko CS Wine Red",
+    "feel": "Linear",
+    "actuation": "43g",
+    "pre_travel": "1.9mm",
+    "total_travel": "4.0mm",
+    "mount": "Plate"
+  },
+  {
+    "model": "Akko Haze Pink",
+    "feel": "Silent Linear",
+    "actuation": "43g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "Plate"
+  },
+  {
+    "model": "Akko POM Brown",
+    "feel": "Tactile",
+    "actuation": "40g",
+    "pre_travel": "1.9mm",
+    "total_travel": "4.0mm",
+    "mount": "Plate"
+  },
+  {
+    "model": "Akko POM Pink",
+    "feel": "Linear",
+    "actuation": "45g",
+    "pre_travel": "1.9mm",
+    "total_travel": "4.0mm",
+    "mount": "Plate"
+  },
+  {
+    "model": "Akko POM Silver",
+    "feel": "Linear",
+    "actuation": "43g",
+    "pre_travel": "1.0mm",
+    "total_travel": "3.0mm",
+    "mount": "Plate"
+  },
+  {
+    "model": "Akko x TTC Demon",
+    "feel": "Linear",
+    "actuation": "50g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "Plate"
+  },
+  {
+    "model": "Akko x TTC Princess",
+    "feel": "Linear",
+    "actuation": "45g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "Plate"
+  },
+  {
+    "model": "Akko V3 Cream Blue",
+    "feel": "Tactile",
+    "actuation": "38g",
+    "pre_travel": "2.0mm",
+    "total_travel": "3.5mm",
+    "mount": "Plate"
+  },
+  {
+    "model": "Akko V3 Cream Yellow",
+    "feel": "Linear",
+    "actuation": "50g",
+    "pre_travel": "1.9mm",
+    "total_travel": "3.5mm",
+    "mount": "Plate"
+  },
+  {
+    "model": "Aliaz Silent 60g",
+    "feel": "Silent Tactile",
+    "actuation": "60g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "Aliaz Silent 70g",
+    "feel": "Silent Tactile",
+    "actuation": "70g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "Aliaz Silent 80g",
+    "feel": "Silent Tactile",
+    "actuation": "80g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "Aliaz Silent 100g",
+    "feel": "Silent Tactile",
+    "actuation": "100g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "Alpaca V2 Linear",
+    "feel": "Linear",
+    "actuation": "62g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "Alpaca Silent Linear",
+    "feel": "Silent Linear",
+    "actuation": "62g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "Arctos 65g",
+    "feel": "Tactile",
+    "actuation": "65g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "Arctos 72g",
+    "feel": "Tactile",
+    "actuation": "72g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "Boardsource x Kailh Purpz",
+    "feel": "Linear",
+    "actuation": "25g",
+    "pre_travel": "1.5mm",
+    "total_travel": "3.0mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "Candy Blinding Lights 62g",
+    "feel": "Tactile",
+    "actuation": "62g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "Candy Blinding Lights 65g",
+    "feel": "Tactile",
+    "actuation": "65g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "Candy Jade Green 55g",
+    "feel": "Linear",
+    "actuation": "55g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "Candy Jade Green 62g",
+    "feel": "Linear",
+    "actuation": "62g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "Candy Raindrop",
+    "feel": "Linear",
+    "actuation": "60g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "Candy Sakura Snow 62g",
+    "feel": "Tactile",
+    "actuation": "62g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "Candy Sakura Snow 65g",
+    "feel": "Tactile",
+    "actuation": "65g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "C\u00c2\u00b3Equalz Fierce Girl",
+    "feel": "Linear",
+    "actuation": "58.5g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "C\u00c2\u00b3Equalz x TKC Banana Split",
+    "feel": "Linear",
+    "actuation": "45g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "C\u00c2\u00b3Equalz x TKC Dragon Fruit",
+    "feel": "Tactile",
+    "actuation": "63.5g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "C\u00c2\u00b3Equalz x TKC Kiwi",
+    "feel": "Tactile",
+    "actuation": "43g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "C\u00c2\u00b3Equalz x TKC Tangerine Dark Green",
+    "feel": "Linear",
+    "actuation": "67g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "C\u00c2\u00b3Equalz x TKC Tangerine Light Green",
+    "feel": "Linear",
+    "actuation": "62g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "Cherry MX Black",
+    "feel": "Linear",
+    "actuation": "60g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "Plate/PCB"
+  },
+  {
+    "model": "Cherry MX Blue",
+    "feel": "Clicky",
+    "actuation": "60g",
+    "pre_travel": "2.2mm",
+    "total_travel": "4.0mm",
+    "mount": "Plate/PCB"
+  },
+  {
+    "model": "Cherry MX Brown",
+    "feel": "Tactile",
+    "actuation": "55g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "Plate/PCB"
+  },
+  {
+    "model": "Cherry MX Clear",
+    "feel": "Tactile",
+    "actuation": "65g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "Plate/PCB"
+  },
+  {
+    "model": "Cherry MX Ergo Clear RGB",
+    "feel": "Tactile",
+    "actuation": "40g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "Cherry MX Ergo Clear",
+    "feel": "Tactile",
+    "actuation": "40g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "Cherry MX Green",
+    "feel": "Clicky",
+    "actuation": "80g",
+    "pre_travel": "2.2mm",
+    "total_travel": "4.0mm",
+    "mount": "Plate/PCB"
+  },
+  {
+    "model": "Cherry MX Grey",
+    "feel": "Tactile",
+    "actuation": "80g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "Plate/PCB"
+  },
+  {
+    "model": "Cherry MX Red",
+    "feel": "Linear",
+    "actuation": "45g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "Plate/PCB"
+  },
+  {
+    "model": "Cherry MX Silent Black",
+    "feel": "Silent Linear",
+    "actuation": "60g",
+    "pre_travel": "1.9mm",
+    "total_travel": "3.7mm",
+    "mount": "Plate/PCB"
+  },
+  {
+    "model": "Cherry MX Silent Red",
+    "feel": "Silent Linear",
+    "actuation": "45g",
+    "pre_travel": "1.9mm",
+    "total_travel": "3.7mm",
+    "mount": "Plate/PCB"
+  },
+  {
+    "model": "Cherry MX Speed Silver",
+    "feel": "Linear",
+    "actuation": "45g",
+    "pre_travel": "1.2mm",
+    "total_travel": "3.4mm",
+    "mount": "Plate/PCB"
+  },
+  {
+    "model": "Cherry MX White",
+    "feel": "Clicky",
+    "actuation": "80g",
+    "pre_travel": "2.2mm",
+    "total_travel": "4.0mm",
+    "mount": "Plate"
+  },
+  {
+    "model": "Cherry MX Black RGB",
+    "feel": "Linear",
+    "actuation": "60g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "Plate"
+  },
+  {
+    "model": "Cherry MX Blue RGB",
+    "feel": "Clicky",
+    "actuation": "60g",
+    "pre_travel": "2.2mm",
+    "total_travel": "4.0mm",
+    "mount": "Plate"
+  },
+  {
+    "model": "Cherry MX Brown RGB",
+    "feel": "Tactile",
+    "actuation": "55g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "Plate"
+  },
+  {
+    "model": "Cherry MX Clear RGB",
+    "feel": "Tactile",
+    "actuation": "65g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "Plate"
+  },
+  {
+    "model": "Cherry MX Red RGB",
+    "feel": "Linear",
+    "actuation": "45g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "Plate"
+  },
+  {
+    "model": "Cherry MX Silent Black RGB",
+    "feel": "Silent Linear",
+    "actuation": "60g",
+    "pre_travel": "1.9mm",
+    "total_travel": "3.7mm",
+    "mount": "Plate"
+  },
+  {
+    "model": "Cherry MX Silent Red RGB",
+    "feel": "Silent Linear",
+    "actuation": "45g",
+    "pre_travel": "1.9mm",
+    "total_travel": "3.7mm",
+    "mount": "Plate"
+  },
+  {
+    "model": "Cherry MX Speed Silver RGB",
+    "feel": "Linear",
+    "actuation": "45g",
+    "pre_travel": "1.2mm",
+    "total_travel": "3.4mm",
+    "mount": "Plate"
+  },
+  {
+    "model": "Cherry MX Low Profile Red",
+    "feel": "Linear",
+    "actuation": "45g",
+    "pre_travel": "1.2mm",
+    "total_travel": "3.2mm",
+    "mount": "Plate"
+  },
+  {
+    "model": "Cherry MX Low Profile Speed",
+    "feel": "Linear",
+    "actuation": "45g",
+    "pre_travel": "1.0mm",
+    "total_travel": "3.2mm",
+    "mount": "Plate"
+  },
+  {
+    "model": "Hirose Cherry MX Orange",
+    "feel": "Linear",
+    "actuation": "50g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "Hirose Cherry"
+  },
+  {
+    "model": "Chosfox x JWICK Voyager",
+    "feel": "Tactile",
+    "actuation": "45g",
+    "pre_travel": "2.0mm",
+    "total_travel": "3.5mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "DCS x JWK Eve",
+    "feel": "Linear",
+    "actuation": "48g",
+    "pre_travel": "2.0mm",
+    "total_travel": "3.7mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "Domikey Cyberpunk Green 62g",
+    "feel": "Tactile",
+    "actuation": "62g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "Domikey Cyberpunk Green 67g",
+    "feel": "Tactile",
+    "actuation": "67g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "Domikey Cyberpunk EVA Pink 62g",
+    "feel": "Tactile",
+    "actuation": "62g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "Domikey Cyberpunk EVA Pink 67g",
+    "feel": "Tactile",
+    "actuation": "67g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "Drop Halo Clear",
+    "feel": "Tactile",
+    "actuation": "65g",
+    "pre_travel": "1.9mm",
+    "total_travel": "4.0mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "Drop Halo True",
+    "feel": "Tactile",
+    "actuation": "60g",
+    "pre_travel": "1.9mm",
+    "total_travel": "4.0mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "Drop Holy Panda X",
+    "feel": "Tactile",
+    "actuation": "60g",
+    "pre_travel": "1.9mm",
+    "total_travel": "4.0mm",
+    "mount": "Plate/PCB"
+  },
+  {
+    "model": "Drop x Invyr Holy Panda",
+    "feel": "Tactile",
+    "actuation": "67g",
+    "pre_travel": "1.9mm",
+    "total_travel": "4.0mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "Durock EV-01",
+    "feel": "Linear",
+    "actuation": "63.5g",
+    "pre_travel": "2.0mm",
+    "total_travel": "3.4mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "Durock EV-02",
+    "feel": "Linear",
+    "actuation": "63.5g",
+    "pre_travel": "2.0mm",
+    "total_travel": "3.4mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "Durock Daybreak",
+    "feel": "Silent Linear",
+    "actuation": "67g",
+    "pre_travel": "2.0mm",
+    "total_travel": "3.4mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "Durock Dolphin",
+    "feel": "Silent Linear",
+    "actuation": "62g",
+    "pre_travel": "2.0mm",
+    "total_travel": "3.4mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "Durock Koala 62g",
+    "feel": "Tactile",
+    "actuation": "62g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "Durock Koala 67g",
+    "feel": "Tactile",
+    "actuation": "67g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "Durock L1 Clear Yellow",
+    "feel": "Linear",
+    "actuation": "55g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "Durock L1 Smokey Yellow",
+    "feel": "Linear",
+    "actuation": "55g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "Durock L2 Clear Creamy Green",
+    "feel": "Linear",
+    "actuation": "62g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "Durock L2 Smokey Creamy Green",
+    "feel": "Linear",
+    "actuation": "62g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "Durock L3 Clear Pink",
+    "feel": "Linear",
+    "actuation": "65g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "Durock L3 Smokey Pink",
+    "feel": "Linear",
+    "actuation": "65g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "Durock L4 Clear Purple",
+    "feel": "Linear",
+    "actuation": "67g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "Durock L4 Smokey Purple",
+    "feel": "Linear",
+    "actuation": "67g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "Durock L5 Clear Blue",
+    "feel": "Linear",
+    "actuation": "67g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "Durock L5 Smokey Blue",
+    "feel": "Linear",
+    "actuation": "67g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "Durock L7 Smokey 62g",
+    "feel": "Linear",
+    "actuation": "62g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "Durock L7 Smokey 67g",
+    "feel": "Linear",
+    "actuation": "67g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "Durock L7 Smokey 78g",
+    "feel": "Linear",
+    "actuation": "78g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "Durock Mamba",
+    "feel": "Linear",
+    "actuation": "60g",
+    "pre_travel": "2.0mm",
+    "total_travel": "3.5mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "Durock POM Piano",
+    "feel": "Linear",
+    "actuation": "63.5g",
+    "pre_travel": "2.0mm",
+    "total_travel": "3.7mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "Durock POM T1 Sunflower",
+    "feel": "Tactile",
+    "actuation": "63.5g",
+    "pre_travel": "2.0mm",
+    "total_travel": "3.7mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "Durock Silent T1 Shrimp",
+    "feel": "Silent Tactile",
+    "actuation": "67g",
+    "pre_travel": "2.0mm",
+    "total_travel": "3.8mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "Durock Splash Brothers",
+    "feel": "Linear",
+    "actuation": "48g",
+    "pre_travel": "1.0mm",
+    "total_travel": "3.5mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "Durock T1 Clear",
+    "feel": "Tactile",
+    "actuation": "67g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "Durock T1 Smokey",
+    "feel": "Tactile",
+    "actuation": "67g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "Epomaker Bluebird",
+    "feel": "Linear",
+    "actuation": "47g",
+    "pre_travel": "2.0mm",
+    "total_travel": "3.8mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "Epomaker Budgerigar",
+    "feel": "Tactile",
+    "actuation": "47g",
+    "pre_travel": "2.0mm",
+    "total_travel": "3.8mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "Epomaker Flamingo",
+    "feel": "Linear",
+    "actuation": "47g",
+    "pre_travel": "2.0mm",
+    "total_travel": "3.8mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "Epomaker Sea Salt",
+    "feel": "Linear",
+    "actuation": "50g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "Everglide Amber Orange",
+    "feel": "Linear",
+    "actuation": "58g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "Everglide Aqua King 55g",
+    "feel": "Linear",
+    "actuation": "55g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "Everglide Aqua King 62g",
+    "feel": "Linear",
+    "actuation": "62g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "Everglide Aqua King 67g",
+    "feel": "Linear",
+    "actuation": "67g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "Everglide Bamboo Green",
+    "feel": "Tactile",
+    "actuation": "62g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "Everglide Coral Red",
+    "feel": "Linear",
+    "actuation": "67g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "Everglide Crystal Purple",
+    "feel": "Tactile",
+    "actuation": "55g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "Everglide Dark Jade",
+    "feel": "Tactile",
+    "actuation": "50g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "Everglide Jade Green",
+    "feel": "Tactile",
+    "actuation": "58g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "Everglide Oreo",
+    "feel": "Tactile",
+    "actuation": "55g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "Everglide Sakura Pink",
+    "feel": "Linear",
+    "actuation": "45g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "Everglide Tourmaline Blue",
+    "feel": "Linear",
+    "actuation": "50g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "Everglide Tourmaline Blue V2.5 50g",
+    "feel": "Linear",
+    "actuation": "50g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "Everglide Tourmaline Blue V2.5 55g",
+    "feel": "Linear",
+    "actuation": "55g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "Everglide Tourmaline Blue V2.5 62g",
+    "feel": "Linear",
+    "actuation": "62g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "Fantasy Bulbasaur",
+    "feel": "Linear",
+    "actuation": "42g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "Plate"
+  },
+  {
+    "model": "Fantasy Charmander",
+    "feel": "Tactile",
+    "actuation": "43g",
+    "pre_travel": "2.0mm",
+    "total_travel": "3.6mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "Fantasy DVA",
+    "feel": "Linear",
+    "actuation": "37g",
+    "pre_travel": "2.0mm",
+    "total_travel": "3.8mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "Fantasy Virus",
+    "feel": "Tactile",
+    "actuation": "58g",
+    "pre_travel": "2.0mm",
+    "total_travel": "3.6mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "Feker Airy",
+    "feel": "Linear",
+    "actuation": "58g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "Plate"
+  },
+  {
+    "model": "Feker Blue White",
+    "feel": "Tactile",
+    "actuation": "50g",
+    "pre_travel": "2.0mm",
+    "total_travel": "3.3mm",
+    "mount": "Plate"
+  },
+  {
+    "model": "Feker Emerald",
+    "feel": "Tactile",
+    "actuation": "50g",
+    "pre_travel": "2.0mm",
+    "total_travel": "3.3mm",
+    "mount": "Plate"
+  },
+  {
+    "model": "Feker Holy Panda",
+    "feel": "Tactile",
+    "actuation": "50g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "Plate"
+  },
+  {
+    "model": "Feker Miami",
+    "feel": "Tactile",
+    "actuation": "58g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "Plate"
+  },
+  {
+    "model": "Feker Smokey Tactile",
+    "feel": "Tactile",
+    "actuation": "55g",
+    "pre_travel": "2.0mm",
+    "total_travel": "3.3mm",
+    "mount": "Plate"
+  },
+  {
+    "model": "Feker Smokey Linear",
+    "feel": "Linear",
+    "actuation": "60g",
+    "pre_travel": "2.0mm",
+    "total_travel": "3.3mm",
+    "mount": "Plate"
+  },
+  {
+    "model": "Gamakay Bumblebee",
+    "feel": "Linear",
+    "actuation": "45g",
+    "pre_travel": "1.3mm",
+    "total_travel": "4.0mm",
+    "mount": "Plate"
+  },
+  {
+    "model": "Gamakay Crystal",
+    "feel": "Linear",
+    "actuation": "45g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "Plate"
+  },
+  {
+    "model": "Gamakay Phoenix",
+    "feel": "Silent Linear",
+    "actuation": "40g",
+    "pre_travel": "3.3mm",
+    "total_travel": "4.0mm",
+    "mount": "Plate"
+  },
+  {
+    "model": "Gateron Baby Kangaroo",
+    "feel": "Tactile",
+    "actuation": "59g",
+    "pre_travel": "2.0mm",
+    "total_travel": "3.4mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "Gateron Baby Raccoon",
+    "feel": "Linear",
+    "actuation": "55g",
+    "pre_travel": "2.0mm",
+    "total_travel": "3.6mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "Gateron CAP Golden Brown",
+    "feel": "Tactile",
+    "actuation": "55g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "Gateron CAP Golden Yellow",
+    "feel": "Linear",
+    "actuation": "50g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "Gateron CAP Milky Brown",
+    "feel": "Tactile",
+    "actuation": "55g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "Gateron CAP Milky Yellow",
+    "feel": "Linear",
+    "actuation": "50g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "Gateron CAP V2 Milky Brown",
+    "feel": "Tactile",
+    "actuation": "55g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "Gateron CAP V2 Milky Yellow",
+    "feel": "Linear",
+    "actuation": "50g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "Gateron CJ Dark Blue Unlubed",
+    "feel": "Linear",
+    "actuation": "50g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "Gateron CJ Light Blue Lubed",
+    "feel": "Linear",
+    "actuation": "50g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "Gateron Ink Black V2",
+    "feel": "Linear",
+    "actuation": "60g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "Gateron Ink Black",
+    "feel": "Linear",
+    "actuation": "60g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "Gateron Ink Blue V2",
+    "feel": "Clicky",
+    "actuation": "60g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "Gateron Ink Blue",
+    "feel": "Clicky",
+    "actuation": "60g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "Gateron Ink Box V2 Black",
+    "feel": "Linear",
+    "actuation": "70g",
+    "pre_travel": "1.2mm",
+    "total_travel": "3.4mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "Gateron Ink Box V2 Pink",
+    "feel": "Linear",
+    "actuation": "60g",
+    "pre_travel": "1.2mm",
+    "total_travel": "3.4mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "Gateron Ink Red V2",
+    "feel": "Linear",
+    "actuation": "45g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "Gateron Ink Red",
+    "feel": "Linear",
+    "actuation": "45g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "Gateron Ink Silent Black V2",
+    "feel": "Silent Linear",
+    "actuation": "60g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "Gateron Ink Silent Black",
+    "feel": "Silent Linear",
+    "actuation": "60g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "Gateron Ink Yellow V2",
+    "feel": "Linear",
+    "actuation": "60g",
+    "pre_travel": "2.0mm",
+    "total_travel": "3.4mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "Gateron Ink Yellow",
+    "feel": "Linear",
+    "actuation": "60g",
+    "pre_travel": "2.0mm",
+    "total_travel": "3.4mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "Gateron Ink Kangaroo 59g",
+    "feel": "Tactile",
+    "actuation": "59g",
+    "pre_travel": "1.5mm",
+    "total_travel": "3.4mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "Gateron Ink Kangaroo 63g",
+    "feel": "Tactile",
+    "actuation": "63g",
+    "pre_travel": "1.5mm",
+    "total_travel": "3.4mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "Gateron Milky Black",
+    "feel": "Linear",
+    "actuation": "60g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "Gateron Milky Blue",
+    "feel": "Clicky",
+    "actuation": "80g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "Gateron Milky Brown",
+    "feel": "Tactile",
+    "actuation": "55g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "Gateron Milky Clear",
+    "feel": "Linear",
+    "actuation": "35g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "Gateron Milky Green",
+    "feel": "Clicky",
+    "actuation": "60g",
+    "pre_travel": "2.3mm",
+    "total_travel": "4.0mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "Gateron Milky Red",
+    "feel": "Linear",
+    "actuation": "45g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "Gateron Milky Yellow",
+    "feel": "Linear",
+    "actuation": "50g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "Gateron Black",
+    "feel": "Linear",
+    "actuation": "60g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "Plate/PCB"
+  },
+  {
+    "model": "Gateron Blue",
+    "feel": "Clicky",
+    "actuation": "55g",
+    "pre_travel": "2.3mm",
+    "total_travel": "4.0mm",
+    "mount": "Plate/PCB"
+  },
+  {
+    "model": "Gateron Brown",
+    "feel": "Tactile",
+    "actuation": "55g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "Plate/PCB"
+  },
+  {
+    "model": "Gateron Clear",
+    "feel": "Linear",
+    "actuation": "35g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "Plate/PCB"
+  },
+  {
+    "model": "Gateron Green",
+    "feel": "Clicky",
+    "actuation": "80g",
+    "pre_travel": "2.3mm",
+    "total_travel": "4.0mm",
+    "mount": "Plate/PCB"
+  },
+  {
+    "model": "Gateron Red",
+    "feel": "Linear",
+    "actuation": "45g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "Plate/PCB"
+  },
+  {
+    "model": "Gateron Yellow",
+    "feel": "Linear",
+    "actuation": "35g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "Plate/PCB"
+  },
+  {
+    "model": "Gateron Silent Black",
+    "feel": "Silent Linear",
+    "actuation": "60g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "Gateron Silent Brown",
+    "feel": "Silent Tactile",
+    "actuation": "55g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "Gateron Silent Clear",
+    "feel": "Silent Linear",
+    "actuation": "35g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "Gateron Silent Red",
+    "feel": "Silent Linear",
+    "actuation": "45g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "Gateron Silent Yellow",
+    "feel": "Silent Linear",
+    "actuation": "35g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "Gateron North Pole 2.0 Yellow",
+    "feel": "Linear",
+    "actuation": "50g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "Gateron Oil King",
+    "feel": "Linear",
+    "actuation": "55g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "Gateron Optical Black",
+    "feel": "Linear",
+    "actuation": "60g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "Gateron Optical Blue",
+    "feel": "Clicky",
+    "actuation": "55g",
+    "pre_travel": "2.3mm",
+    "total_travel": "4.0mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "Gateron Optical Brown",
+    "feel": "Tactile",
+    "actuation": "55g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "Gateron Optical Clear",
+    "feel": "Linear",
+    "actuation": "35g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "Gateron Optical Red",
+    "feel": "Linear",
+    "actuation": "45g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "Gateron Optical Silver",
+    "feel": "Linear",
+    "actuation": "45g",
+    "pre_travel": "1.0mm",
+    "total_travel": "3.2mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "Gateron Optical Yellow",
+    "feel": "Linear",
+    "actuation": "35g",
+    "pre_travel": "1.0mm",
+    "total_travel": "3.2mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "Gateron Keyfirst Cream",
+    "feel": "Linear",
+    "actuation": "62g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "Gateron Robin 62g",
+    "feel": "Linear",
+    "actuation": "62g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "Gateron Robin 67g",
+    "feel": "Linear",
+    "actuation": "67g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "Gateron SMD Black",
+    "feel": "Linear",
+    "actuation": "50g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "Plate"
+  },
+  {
+    "model": "Gateron SMD Blue",
+    "feel": "Clicky",
+    "actuation": "55g",
+    "pre_travel": "2.3mm",
+    "total_travel": "4.0mm",
+    "mount": "Plate"
+  },
+  {
+    "model": "Gateron SMD Brown",
+    "feel": "Tactile",
+    "actuation": "45g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "Plate"
+  },
+  {
+    "model": "Gateron SMD Clear",
+    "feel": "Linear",
+    "actuation": "35g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "Plate"
+  },
+  {
+    "model": "Gateron SMD Green",
+    "feel": "Clicky",
+    "actuation": "80g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "Plate"
+  },
+  {
+    "model": "Gateron SMD Red",
+    "feel": "Linear",
+    "actuation": "45g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "Plate"
+  },
+  {
+    "model": "Gateron SMD Yellow",
+    "feel": "Linear",
+    "actuation": "50g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "Plate"
+  },
+  {
+    "model": "Gateron Silver Pro",
+    "feel": "Linear",
+    "actuation": "45g",
+    "pre_travel": "3.4mm",
+    "total_travel": "1.2mm",
+    "mount": "Plate"
+  },
+  {
+    "model": "Gazzew Boba Black U4",
+    "feel": "Tactile",
+    "actuation": "62g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "Gazzew Boba LT 55g",
+    "feel": "Linear",
+    "actuation": "55g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "Gazzew Boba LT 65g",
+    "feel": "Linear",
+    "actuation": "65g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "Gazzew Boba Gum Pink 52g",
+    "feel": "Silent Linear",
+    "actuation": "52g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "Gazzew Boba Gum Pink 62g",
+    "feel": "Silent Linear",
+    "actuation": "62g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "Gazzew Boba Gum Pink 68g",
+    "feel": "Silent Linear",
+    "actuation": "68g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "Gazzew Boba U4 RGB 62g",
+    "feel": "Silent Tactile",
+    "actuation": "62g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "Gazzew Boba U4 RGB 68g",
+    "feel": "Silent Tactile",
+    "actuation": "68g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "Gazzew Boba U4 62g",
+    "feel": "Silent Tactile",
+    "actuation": "62g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "Gazzew Boba U4 68g",
+    "feel": "Silent Tactile",
+    "actuation": "68g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "Gazzew Boba U4T 62g",
+    "feel": "Tactile",
+    "actuation": "62g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "Gazzew Boba U4T 68g",
+    "feel": "Tactile",
+    "actuation": "68g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "Glorious Lynx",
+    "feel": "Linear",
+    "actuation": "60g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "Glorious Panda",
+    "feel": "Tactile",
+    "actuation": "67g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "Plate"
+  },
+  {
+    "model": "Gopolar Azure Dragon",
+    "feel": "Tactile",
+    "actuation": "63g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "Gopolar Vermilion Bird",
+    "feel": "Linear",
+    "actuation": "50g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "Hako Clear",
+    "feel": "Tactile",
+    "actuation": "55g",
+    "pre_travel": "1.9mm",
+    "total_travel": "3.6mm",
+    "mount": "Plate"
+  },
+  {
+    "model": "Hako True",
+    "feel": "Tactile",
+    "actuation": "60g",
+    "pre_travel": "1.9mm",
+    "total_travel": "3.6mm",
+    "mount": "Plate"
+  },
+  {
+    "model": "Hako Violet",
+    "feel": "Tactile",
+    "actuation": "28g",
+    "pre_travel": "1.9mm",
+    "total_travel": "3.6mm",
+    "mount": "Plate"
+  },
+  {
+    "model": "HK Gaming MS1 Pro Sky Blue",
+    "feel": "Linear",
+    "actuation": "62g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "HK Gaming MS1 Pro Marlin Blue",
+    "feel": "Linear",
+    "actuation": "67g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "HK Gaming MS1 Pro Lake Blue",
+    "feel": "Linear",
+    "actuation": "72g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "Huano Black",
+    "feel": "Linear",
+    "actuation": "60g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "Plate"
+  },
+  {
+    "model": "Huano Blue",
+    "feel": "Clicky",
+    "actuation": "50g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "Plate"
+  },
+  {
+    "model": "Huano Brown",
+    "feel": "Tactile",
+    "actuation": "55g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "Plate"
+  },
+  {
+    "model": "Huano American Rose Garden",
+    "feel": "Linear",
+    "actuation": "35g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "Plate"
+  },
+  {
+    "model": "Huano Holy Tom V1",
+    "feel": "Tactile",
+    "actuation": "60g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "Plate"
+  },
+  {
+    "model": "Huano Holy Tom V2",
+    "feel": "Tactile",
+    "actuation": "63.5g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "Plate"
+  },
+  {
+    "model": "Huano Holy Tom Jerry V1",
+    "feel": "Linear",
+    "actuation": "43g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "Plate"
+  },
+  {
+    "model": "Huano Pink",
+    "feel": "Linear",
+    "actuation": "60g",
+    "pre_travel": "1.2mm",
+    "total_travel": "4.0mm",
+    "mount": "Plate"
+  },
+  {
+    "model": "Huano Red",
+    "feel": "Linear",
+    "actuation": "45g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "Plate"
+  },
+  {
+    "model": "Huano Silver",
+    "feel": "Linear",
+    "actuation": "60g",
+    "pre_travel": "1.2mm",
+    "total_travel": "4.0mm",
+    "mount": "Plate"
+  },
+  {
+    "model": "Huano Smokey Pink",
+    "feel": "Linear",
+    "actuation": "80g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "Plate"
+  },
+  {
+    "model": "Huano Smokey White",
+    "feel": "Tactile",
+    "actuation": "65g",
+    "pre_travel": "2.0mm",
+    "total_travel": "3.3mm",
+    "mount": "Plate"
+  },
+  {
+    "model": "HyperX Aqua",
+    "feel": "Tactile",
+    "actuation": "45g",
+    "pre_travel": "1.8mm",
+    "total_travel": "3.8mm",
+    "mount": "Plate"
+  },
+  {
+    "model": "HyperX Blue",
+    "feel": "Clicky",
+    "actuation": "50g",
+    "pre_travel": "1.8mm",
+    "total_travel": "3.8mm",
+    "mount": "Plate"
+  },
+  {
+    "model": "HyperX Red",
+    "feel": "Linear",
+    "actuation": "45g",
+    "pre_travel": "1.8mm",
+    "total_travel": "3.8mm",
+    "mount": "Plate"
+  },
+  {
+    "model": "JTK Dreaming Girl Usagi",
+    "feel": "Linear",
+    "actuation": "55g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "Plate"
+  },
+  {
+    "model": "JWICK Aloe",
+    "feel": "Tactile",
+    "actuation": "67g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "JWICK Black V2",
+    "feel": "Linear",
+    "actuation": "42g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "JWICK Giant",
+    "feel": "Tactile",
+    "actuation": "58g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "JWICK Grey White",
+    "feel": "Linear",
+    "actuation": "48g",
+    "pre_travel": "2.0mm",
+    "total_travel": "3.7mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "JWICK Milk Yellow",
+    "feel": "Linear",
+    "actuation": "50g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "JWICK x MoYu.Studio Queen Linear",
+    "feel": "Linear",
+    "actuation": "60g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "JWICK Red Pro",
+    "feel": "Linear",
+    "actuation": "60g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "JWICK Red",
+    "feel": "Linear",
+    "actuation": "60g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "JWICK T1 V2",
+    "feel": "Tactile",
+    "actuation": "55g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "JWICK Taro Puree",
+    "feel": "Tactile",
+    "actuation": "70g",
+    "pre_travel": "2.0mm",
+    "total_travel": "3.7mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "JWICK TC V2",
+    "feel": "Tactile",
+    "actuation": "55g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "JWICK Ultimate Black",
+    "feel": "Linear",
+    "actuation": "38g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "JWICK White",
+    "feel": "Linear",
+    "actuation": "37g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "JWICK Yellow Pro",
+    "feel": "Linear",
+    "actuation": "65g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "JWICK Yellow",
+    "feel": "Linear",
+    "actuation": "65g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "JWK Epsilon",
+    "feel": "Linear",
+    "actuation": "68g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "JWK Ice Jade",
+    "feel": "Tactile",
+    "actuation": "62g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "JWK Ice Pink",
+    "feel": "Linear",
+    "actuation": "62g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "JWK Matcha",
+    "feel": "Linear",
+    "actuation": "49g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "JWK x Protozoa Studio The Moss 62g",
+    "feel": "Tactile",
+    "actuation": "62g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "JWK x Protozoa Studio The Moss 67g",
+    "feel": "Tactile",
+    "actuation": "67g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "Kailh Black",
+    "feel": "Linear",
+    "actuation": "60g",
+    "pre_travel": "1.9mm",
+    "total_travel": "4.0mm",
+    "mount": "Plate"
+  },
+  {
+    "model": "Kailh Blue",
+    "feel": "Clicky",
+    "actuation": "60g",
+    "pre_travel": "1.9mm",
+    "total_travel": "4.0mm",
+    "mount": "Plate"
+  },
+  {
+    "model": "Kailh Brown",
+    "feel": "Tactile",
+    "actuation": "50g",
+    "pre_travel": "1.9mm",
+    "total_travel": "4.0mm",
+    "mount": "Plate"
+  },
+  {
+    "model": "Kailh Red",
+    "feel": "Linear",
+    "actuation": "45g",
+    "pre_travel": "1.9mm",
+    "total_travel": "4.0mm",
+    "mount": "Plate"
+  },
+  {
+    "model": "Kailh Box Black",
+    "feel": "Linear",
+    "actuation": "60g",
+    "pre_travel": "1.8mm",
+    "total_travel": "3.6mm",
+    "mount": "Plate"
+  },
+  {
+    "model": "Kailh Box Brown",
+    "feel": "Tactile",
+    "actuation": "60g",
+    "pre_travel": "1.8mm",
+    "total_travel": "3.6mm",
+    "mount": "Plate"
+  },
+  {
+    "model": "Kailh Box Red",
+    "feel": "Linear",
+    "actuation": "50g",
+    "pre_travel": "1.8mm",
+    "total_travel": "3.6mm",
+    "mount": "Plate"
+  },
+  {
+    "model": "Kailh Box White",
+    "feel": "Clicky",
+    "actuation": "50g",
+    "pre_travel": "1.8mm",
+    "total_travel": "3.6mm",
+    "mount": "Plate"
+  },
+  {
+    "model": "Kailh Box Red Pro",
+    "feel": "Linear",
+    "actuation": "35g",
+    "pre_travel": "1.8mm",
+    "total_travel": "3.6mm",
+    "mount": "Plate"
+  },
+  {
+    "model": "Kailh Box Pink",
+    "feel": "Clicky",
+    "actuation": "62g",
+    "pre_travel": "1.8mm",
+    "total_travel": "3.6mm",
+    "mount": "Plate"
+  },
+  {
+    "model": "Kailh Box Red Bean Pudding",
+    "feel": "Linear",
+    "actuation": "45g",
+    "pre_travel": "1.8mm",
+    "total_travel": "3.6mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "Kailh Box Silent Brown",
+    "feel": "Silent Tactile",
+    "actuation": "45g",
+    "pre_travel": "1.8mm",
+    "total_travel": "3.6mm",
+    "mount": "Plate"
+  },
+  {
+    "model": "Kailh Box Silent Pink",
+    "feel": "Silent Linear",
+    "actuation": "35g",
+    "pre_travel": "1.8mm",
+    "total_travel": "3.6mm",
+    "mount": "Plate"
+  },
+  {
+    "model": "Kailh Box White Owl",
+    "feel": "Clicky",
+    "actuation": "46g",
+    "pre_travel": "1.8mm",
+    "total_travel": "3.6mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "Kailh Box Ancient Grey",
+    "feel": "Linear",
+    "actuation": "95g",
+    "pre_travel": "1.8mm",
+    "total_travel": "3.6mm",
+    "mount": "Plate"
+  },
+  {
+    "model": "Kailh Box Chinese Red",
+    "feel": "Linear",
+    "actuation": "45g",
+    "pre_travel": "1.8mm",
+    "total_travel": "3.6mm",
+    "mount": "Plate"
+  },
+  {
+    "model": "Kailh Box Glazed Green",
+    "feel": "Clicky",
+    "actuation": "50g",
+    "pre_travel": "1.8mm",
+    "total_travel": "3.6mm",
+    "mount": "Plate"
+  },
+  {
+    "model": "Kailh Box Noble Yellow",
+    "feel": "Clicky",
+    "actuation": "65g",
+    "pre_travel": "1.8mm",
+    "total_travel": "3.6mm",
+    "mount": "Plate"
+  },
+  {
+    "model": "Kailh Box Crystal Jade",
+    "feel": "Clicky",
+    "actuation": "55g",
+    "pre_travel": "1.8mm",
+    "total_travel": "3.6mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "Kailh Box Crystal Navy",
+    "feel": "Clicky",
+    "actuation": "60g",
+    "pre_travel": "1.8mm",
+    "total_travel": "3.6mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "Kailh Box Crystal Pink",
+    "feel": "Clicky",
+    "actuation": "65g",
+    "pre_travel": "1.8mm",
+    "total_travel": "3.6mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "Kailh Box Crystal Pro",
+    "feel": "Tactile",
+    "actuation": "65g",
+    "pre_travel": "1.8mm",
+    "total_travel": "3.6mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "Kailh Box Crystal Royal",
+    "feel": "Tactile",
+    "actuation": "40g",
+    "pre_travel": "1.8mm",
+    "total_travel": "3.6mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "Kailh Box Crystal 62g",
+    "feel": "Tactile",
+    "actuation": "62g",
+    "pre_travel": "1.8mm",
+    "total_travel": "3.6mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "Kailh Box Crystal 67g",
+    "feel": "Tactile",
+    "actuation": "67g",
+    "pre_travel": "1.8mm",
+    "total_travel": "3.6mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "Kailh Box Crystal 72g",
+    "feel": "Tactile",
+    "actuation": "72g",
+    "pre_travel": "1.8mm",
+    "total_travel": "3.6mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "Kailh Box Heavy Burnt Orange",
+    "feel": "Tactile",
+    "actuation": "60g",
+    "pre_travel": "1.8mm",
+    "total_travel": "3.6mm",
+    "mount": "Plate"
+  },
+  {
+    "model": "Kailh Box Heavy Dark Yellow",
+    "feel": "Linear",
+    "actuation": "60g",
+    "pre_travel": "1.8mm",
+    "total_travel": "3.6mm",
+    "mount": "Plate"
+  },
+  {
+    "model": "Kailh Box Heavy Pale Blue",
+    "feel": "Clicky",
+    "actuation": "60g",
+    "pre_travel": "1.8mm",
+    "total_travel": "3.6mm",
+    "mount": "Plate"
+  },
+  {
+    "model": "Kailh Pro Burgundy",
+    "feel": "Linear",
+    "actuation": "50g",
+    "pre_travel": "1.7mm",
+    "total_travel": "3.6mm",
+    "mount": "Plate"
+  },
+  {
+    "model": "Kailh Pro Light Green",
+    "feel": "Clicky",
+    "actuation": "50g",
+    "pre_travel": "1.7mm",
+    "total_travel": "3.6mm",
+    "mount": "Plate"
+  },
+  {
+    "model": "Kailh Pro Purple",
+    "feel": "Tactile",
+    "actuation": "50g",
+    "pre_travel": "1.7mm",
+    "total_travel": "3.6mm",
+    "mount": "Plate"
+  },
+  {
+    "model": "Kailh RGB Black",
+    "feel": "Linear",
+    "actuation": "60g",
+    "pre_travel": "1.9mm",
+    "total_travel": "4.0mm",
+    "mount": "Plate"
+  },
+  {
+    "model": "Kailh RGB Blue",
+    "feel": "Clicky",
+    "actuation": "50g",
+    "pre_travel": "1.9mm",
+    "total_travel": "4.0mm",
+    "mount": "Plate"
+  },
+  {
+    "model": "Kailh RGB Brown",
+    "feel": "Tactile",
+    "actuation": "50g",
+    "pre_travel": "1.9mm",
+    "total_travel": "4.0mm",
+    "mount": "Plate"
+  },
+  {
+    "model": "Kailh RGB Red",
+    "feel": "Linear",
+    "actuation": "45g",
+    "pre_travel": "1.9mm",
+    "total_travel": "4.0mm",
+    "mount": "Plate"
+  },
+  {
+    "model": "Kailh Speed Bronze",
+    "feel": "Clicky",
+    "actuation": "50g",
+    "pre_travel": "1.1mm",
+    "total_travel": "3.5mm",
+    "mount": "Plate"
+  },
+  {
+    "model": "Kailh Speed Copper",
+    "feel": "Tactile",
+    "actuation": "50g",
+    "pre_travel": "1.1mm",
+    "total_travel": "3.5mm",
+    "mount": "Plate"
+  },
+  {
+    "model": "Kailh Speed Gold",
+    "feel": "Clicky",
+    "actuation": "50g",
+    "pre_travel": "1.4mm",
+    "total_travel": "3.5mm",
+    "mount": "Plate"
+  },
+  {
+    "model": "Kailh Speed Pink",
+    "feel": "Clicky",
+    "actuation": "50g",
+    "pre_travel": "1.4mm",
+    "total_travel": "3.5mm",
+    "mount": "Plate"
+  },
+  {
+    "model": "Kailh Speed Silver",
+    "feel": "Linear",
+    "actuation": "40g",
+    "pre_travel": "1.4mm",
+    "total_travel": "3.5mm",
+    "mount": "Plate"
+  },
+  {
+    "model": "Kailh x Domikey Canary",
+    "feel": "Tactile",
+    "actuation": "42g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "Kailh x Domikey Knight Saber",
+    "feel": "Tactile",
+    "actuation": "60g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "Kailh Polia",
+    "feel": "Tactile",
+    "actuation": "60g",
+    "pre_travel": "1.9mm",
+    "total_travel": "3.8mm",
+    "mount": "Plate"
+  },
+  {
+    "model": "Kailh Choc Black",
+    "feel": "Linear",
+    "actuation": "60g",
+    "pre_travel": "1.3mm",
+    "total_travel": "3.2mm",
+    "mount": "Plate"
+  },
+  {
+    "model": "Kailh Choc Brown",
+    "feel": "Tactile",
+    "actuation": "50g",
+    "pre_travel": "1.3mm",
+    "total_travel": "3.2mm",
+    "mount": "Plate"
+  },
+  {
+    "model": "Kailh Choc Red",
+    "feel": "Linear",
+    "actuation": "50g",
+    "pre_travel": "1.3mm",
+    "total_travel": "3.2mm",
+    "mount": "Plate"
+  },
+  {
+    "model": "Kailh Choc White",
+    "feel": "Clicky",
+    "actuation": "50g",
+    "pre_travel": "1.3mm",
+    "total_travel": "3.2mm",
+    "mount": "Plate"
+  },
+  {
+    "model": "Kailh Choc Heavy Burnt Orange",
+    "feel": "Tactile",
+    "actuation": "60g",
+    "pre_travel": "1.3mm",
+    "total_travel": "3.2mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "Kailh Choc Heavy Dark Yellow",
+    "feel": "Linear",
+    "actuation": "70g",
+    "pre_travel": "1.3mm",
+    "total_travel": "3.2mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "Kailh Choc Heavy Pale Blue",
+    "feel": "Clicky",
+    "actuation": "60g",
+    "pre_travel": "1.3mm",
+    "total_travel": "3.2mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "Kailh Choc Jade",
+    "feel": "Clicky",
+    "actuation": "50g",
+    "pre_travel": "1.3mm",
+    "total_travel": "3.2mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "Kailh Choc Navy",
+    "feel": "Clicky",
+    "actuation": "50g",
+    "pre_travel": "1.3mm",
+    "total_travel": "3.2mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "Kailh Choc V2 Blue",
+    "feel": "Clicky",
+    "actuation": "55g",
+    "pre_travel": "1.3mm",
+    "total_travel": "3.2mm",
+    "mount": "Plate"
+  },
+  {
+    "model": "Kailh Choc V2 Brown",
+    "feel": "Tactile",
+    "actuation": "50g",
+    "pre_travel": "1.3mm",
+    "total_travel": "3.2mm",
+    "mount": "Plate"
+  },
+  {
+    "model": "Kailh Choc V2 Red",
+    "feel": "Linear",
+    "actuation": "50g",
+    "pre_travel": "1.3mm",
+    "total_travel": "3.2mm",
+    "mount": "Plate"
+  },
+  {
+    "model": "Kailh Choc Red Crystal",
+    "feel": "Linear",
+    "actuation": "35g",
+    "pre_travel": "1.5mm",
+    "total_travel": "3.0mm",
+    "mount": "Plate"
+  },
+  {
+    "model": "Kailh Choc Red Pro",
+    "feel": "Linear",
+    "actuation": "35g",
+    "pre_travel": "1.8mm",
+    "total_travel": "3.6mm",
+    "mount": "Plate"
+  },
+  {
+    "model": "Kailh Choc Robin 47g",
+    "feel": "Clicky",
+    "actuation": "47g",
+    "pre_travel": "1.5mm",
+    "total_travel": "3.0mm",
+    "mount": "Plate"
+  },
+  {
+    "model": "Kailh Choc Robin 52g",
+    "feel": "Clicky",
+    "actuation": "52g",
+    "pre_travel": "1.5mm",
+    "total_travel": "3.0mm",
+    "mount": "Plate"
+  },
+  {
+    "model": "Kailh Choc Robin 57g",
+    "feel": "Clicky",
+    "actuation": "57g",
+    "pre_travel": "1.5mm",
+    "total_travel": "3.0mm",
+    "mount": "Plate"
+  },
+  {
+    "model": "Kailh Choc Light Blue",
+    "feel": "Linear",
+    "actuation": "25g",
+    "pre_travel": "1.5mm",
+    "total_travel": "3.0mm",
+    "mount": "Plate"
+  },
+  {
+    "model": "Keychron Low Profile Optical Banana",
+    "feel": "Tactile",
+    "actuation": "57g",
+    "pre_travel": "1.1mm",
+    "total_travel": "2.5mm",
+    "mount": "Plate"
+  },
+  {
+    "model": "Keychron Low Profile Optical Black",
+    "feel": "Linear",
+    "actuation": "50g",
+    "pre_travel": "1.1mm",
+    "total_travel": "2.5mm",
+    "mount": "Plate"
+  },
+  {
+    "model": "Keychron Low Profile Optical Blue",
+    "feel": "Clicky",
+    "actuation": "48g",
+    "pre_travel": "1.1mm",
+    "total_travel": "2.5mm",
+    "mount": "Plate"
+  },
+  {
+    "model": "Keychron Low Profile Optical Brown",
+    "feel": "Tactile",
+    "actuation": "57g",
+    "pre_travel": "1.1mm",
+    "total_travel": "2.5mm",
+    "mount": "Plate"
+  },
+  {
+    "model": "Keychron Low Profile Optical Mint",
+    "feel": "Tactile",
+    "actuation": "67g",
+    "pre_travel": "1.1mm",
+    "total_travel": "2.5mm",
+    "mount": "Plate"
+  },
+  {
+    "model": "Keychron Low Profile Optical Orange",
+    "feel": "Clicky",
+    "actuation": "55g",
+    "pre_travel": "1.1mm",
+    "total_travel": "2.5mm",
+    "mount": "Plate"
+  },
+  {
+    "model": "Keychron Low Profile Optical Red",
+    "feel": "Linear",
+    "actuation": "40g",
+    "pre_travel": "1.1mm",
+    "total_travel": "2.5mm",
+    "mount": "Plate"
+  },
+  {
+    "model": "Keychron Low Profile Optical White",
+    "feel": "Linear",
+    "actuation": "30g",
+    "pre_travel": "1.1mm",
+    "total_travel": "2.5mm",
+    "mount": "Plate"
+  },
+  {
+    "model": "Keyfirst Bling Blue",
+    "feel": "Linear",
+    "actuation": "67g",
+    "pre_travel": "2.0mm",
+    "total_travel": "3.8mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "Keyfirst Bling Green",
+    "feel": "Linear",
+    "actuation": "80g",
+    "pre_travel": "2.0mm",
+    "total_travel": "3.8mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "Keyfirst Bling Pink",
+    "feel": "Linear",
+    "actuation": "45g",
+    "pre_travel": "2.0mm",
+    "total_travel": "3.8mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "Keyfirst Bling Purple",
+    "feel": "Linear",
+    "actuation": "62g",
+    "pre_travel": "2.0mm",
+    "total_travel": "3.8mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "Keyfirst Bling Yellow",
+    "feel": "Linear",
+    "actuation": "30g",
+    "pre_travel": "2.0mm",
+    "total_travel": "3.8mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "Keyfirst Queen",
+    "feel": "Linear",
+    "actuation": "60g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "KK Light Wave Mint Green",
+    "feel": "Linear",
+    "actuation": "45g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "Plate"
+  },
+  {
+    "model": "KTT Grapefruit",
+    "feel": "Linear",
+    "actuation": "45g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "Plate"
+  },
+  {
+    "model": "KTT Kang White",
+    "feel": "Linear",
+    "actuation": "40g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "Plate"
+  },
+  {
+    "model": "KTT Matcha",
+    "feel": "Tactile",
+    "actuation": "40g",
+    "pre_travel": "1.9mm",
+    "total_travel": "4.0mm",
+    "mount": "Plate"
+  },
+  {
+    "model": "KTT Mint",
+    "feel": "Linear",
+    "actuation": "45g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "Plate"
+  },
+  {
+    "model": "KTT Peach",
+    "feel": "Linear",
+    "actuation": "45g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "Plate"
+  },
+  {
+    "model": "KTT Rose",
+    "feel": "Linear",
+    "actuation": "43g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "Plate"
+  },
+  {
+    "model": "KTT Sea Salt Lemon",
+    "feel": "Linear",
+    "actuation": "45g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "Plate"
+  },
+  {
+    "model": "KTT Strawberry",
+    "feel": "Linear",
+    "actuation": "62g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "Plate"
+  },
+  {
+    "model": "KTT Wine Red",
+    "feel": "Linear",
+    "actuation": "44g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "Plate"
+  },
+  {
+    "model": "LCET Blue Pink",
+    "feel": "Tactile",
+    "actuation": "58g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "LCET Desert",
+    "feel": "Tactile",
+    "actuation": "58g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "LCET Grace",
+    "feel": "Linear",
+    "actuation": "50g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "LCET Ice World",
+    "feel": "Linear",
+    "actuation": "50g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "LCET Joker",
+    "feel": "Tactile",
+    "actuation": "58g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "LCET Oasis",
+    "feel": "Tactile",
+    "actuation": "58g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "LCET Pink Queen",
+    "feel": "Tactile",
+    "actuation": "58g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "LCET Pink Sweet Heart",
+    "feel": "Tactile",
+    "actuation": "58g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "LCET Sprout",
+    "feel": "Linear",
+    "actuation": "50g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "MiTo Laser Cyan",
+    "feel": "Linear",
+    "actuation": "60g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "MiTo Laser Pink",
+    "feel": "Linear",
+    "actuation": "70g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "MK Holy Llama",
+    "feel": "Tactile",
+    "actuation": "55g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "MK Purple Slush",
+    "feel": "Linear",
+    "actuation": "50g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "MMK Flamingo",
+    "feel": "Linear",
+    "actuation": "54g",
+    "pre_travel": "1.9mm",
+    "total_travel": "3.9mm",
+    "mount": "Plate"
+  },
+  {
+    "model": "MMK Frog",
+    "feel": "Tactile",
+    "actuation": "54g",
+    "pre_travel": "2.6mm",
+    "total_travel": "3.9mm",
+    "mount": "Plate"
+  },
+  {
+    "model": "MOD-H Linear",
+    "feel": "Linear",
+    "actuation": "62g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "MOD-M Linear",
+    "feel": "Linear",
+    "actuation": "55g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "MOD-L Linear",
+    "feel": "Linear",
+    "actuation": "45g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "MOD-SH Tactile",
+    "feel": "Tactile",
+    "actuation": "70g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "MOD-H Tactile",
+    "feel": "Tactile",
+    "actuation": "62g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "MOD-M Tactile",
+    "feel": "Tactile",
+    "actuation": "55g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "MOD-L Tactile",
+    "feel": "Linear",
+    "actuation": "45g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "Nightwalker Nightcall",
+    "feel": "Silent Linear",
+    "actuation": "66g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "Nightwalker Solaris",
+    "feel": "Tactile",
+    "actuation": "66g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "NK Blueberry",
+    "feel": "Tactile",
+    "actuation": "65g",
+    "pre_travel": "1.8mm",
+    "total_travel": "3.0mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "NK Box Cream",
+    "feel": "Linear",
+    "actuation": "45g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "NK Cream Tactile",
+    "feel": "Tactile",
+    "actuation": "65g",
+    "pre_travel": "3.0mm",
+    "total_travel": "4.0mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "NK Cream",
+    "feel": "Linear",
+    "actuation": "55g",
+    "pre_travel": "1.8mm",
+    "total_travel": "3.0mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "NK Sherbet",
+    "feel": "Clicky",
+    "actuation": "55g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "Plate"
+  },
+  {
+    "model": "NK Big Switch Burnt Orange",
+    "feel": "Tactile",
+    "actuation": "280g",
+    "pre_travel": "4.8mm",
+    "total_travel": "14.0mm",
+    "mount": "Plate"
+  },
+  {
+    "model": "NK Big Switch Dark Yellow",
+    "feel": "Linear",
+    "actuation": "280g",
+    "pre_travel": "4.8mm",
+    "total_travel": "14.0mm",
+    "mount": "Plate"
+  },
+  {
+    "model": "NK Big Switch Pale Blue",
+    "feel": "Clicky",
+    "actuation": "280g",
+    "pre_travel": "4.8mm",
+    "total_travel": "14.0mm",
+    "mount": "Plate"
+  },
+  {
+    "model": "Outemu Black",
+    "feel": "Linear",
+    "actuation": "60g",
+    "pre_travel": "1.5mm",
+    "total_travel": "4.0mm",
+    "mount": "Plate"
+  },
+  {
+    "model": "Outemu Blue",
+    "feel": "Clicky",
+    "actuation": "60g",
+    "pre_travel": "2.4mm",
+    "total_travel": "4.0mm",
+    "mount": "Plate"
+  },
+  {
+    "model": "Outemu Brown",
+    "feel": "Tactile",
+    "actuation": "50g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "Plate"
+  },
+  {
+    "model": "Outemu Dustproof Black",
+    "feel": "Linear",
+    "actuation": "60g",
+    "pre_travel": "1.5mm",
+    "total_travel": "4.0mm",
+    "mount": "Plate"
+  },
+  {
+    "model": "Outemu Dustproof Blue",
+    "feel": "Clicky",
+    "actuation": "60g",
+    "pre_travel": "2.4mm",
+    "total_travel": "4.0mm",
+    "mount": "Plate"
+  },
+  {
+    "model": "Outemu Dustproof Brown",
+    "feel": "Tactile",
+    "actuation": "50g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "Plate"
+  },
+  {
+    "model": "Outemu Dustproof Green",
+    "feel": "Clicky",
+    "actuation": "70g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "Plate"
+  },
+  {
+    "model": "Outemu Dustproof Purple",
+    "feel": "Tactile",
+    "actuation": "50g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "Plate"
+  },
+  {
+    "model": "Outemu Dustproof Red",
+    "feel": "Linear",
+    "actuation": "45g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "Plate"
+  },
+  {
+    "model": "Outemu Dustproof Silver",
+    "feel": "Linear",
+    "actuation": "45g",
+    "pre_travel": "1.3mm",
+    "total_travel": "4.0mm",
+    "mount": "Plate"
+  },
+  {
+    "model": "Outemu GAOTE Black",
+    "feel": "Linear",
+    "actuation": "80g",
+    "pre_travel": "1.5mm",
+    "total_travel": "4.0mm",
+    "mount": "Plate"
+  },
+  {
+    "model": "Outemu GAOTE Blue",
+    "feel": "Clicky",
+    "actuation": "60g",
+    "pre_travel": "2.4mm",
+    "total_travel": "4.0mm",
+    "mount": "Plate"
+  },
+  {
+    "model": "Outemu GAOTE Brown",
+    "feel": "Tactile",
+    "actuation": "40g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "Plate"
+  },
+  {
+    "model": "Outemu GAOTE Red",
+    "feel": "Linear",
+    "actuation": "60g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "Plate"
+  },
+  {
+    "model": "Outemu Gold",
+    "feel": "Clicky",
+    "actuation": "58g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "Plate"
+  },
+  {
+    "model": "Outemu Green",
+    "feel": "Clicky",
+    "actuation": "70g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "Plate"
+  },
+  {
+    "model": "Outemu Ice Clear",
+    "feel": "Tactile",
+    "actuation": "62g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "Outemu Ice Dark Purple",
+    "feel": "Tactile",
+    "actuation": "68g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "Outemu Ice Grey",
+    "feel": "Tactile",
+    "actuation": "75g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "Outemu Ice Light Purple",
+    "feel": "Tactile",
+    "actuation": "62g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "Outemu Ocean",
+    "feel": "Clicky",
+    "actuation": "55g",
+    "pre_travel": "1.8mm",
+    "total_travel": "4.0mm",
+    "mount": "Plate"
+  },
+  {
+    "model": "Outemu Orange",
+    "feel": "Tactile",
+    "actuation": "50g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "Plate"
+  },
+  {
+    "model": "Outemu OTM Alps Red",
+    "feel": "Linear",
+    "actuation": "35g",
+    "pre_travel": "2.2mm",
+    "total_travel": "3.5mm",
+    "mount": "Plate"
+  },
+  {
+    "model": "Outemu OTM Alps White",
+    "feel": "Clicky",
+    "actuation": "60g",
+    "pre_travel": "2.2mm",
+    "total_travel": "3.5mm",
+    "mount": "Plate"
+  },
+  {
+    "model": "Outemu Panda",
+    "feel": "Tactile",
+    "actuation": "50g",
+    "pre_travel": "1.8mm",
+    "total_travel": "3.3mm",
+    "mount": "Plate"
+  },
+  {
+    "model": "Outemu Purple",
+    "feel": "Tactile",
+    "actuation": "50g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "Outemu Red",
+    "feel": "Linear",
+    "actuation": "45g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "Plate"
+  },
+  {
+    "model": "Outemu Silent Forest 62g",
+    "feel": "Tactile",
+    "actuation": "62g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "Outemu Silent Forest 68g",
+    "feel": "Tactile",
+    "actuation": "68g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "Outemu Silent Gray",
+    "feel": "Tactile",
+    "actuation": "55g",
+    "pre_travel": "1.6mm",
+    "total_travel": "4.0mm",
+    "mount": "Plate"
+  },
+  {
+    "model": "Outemu Silent Lemon",
+    "feel": "Tactile",
+    "actuation": "35g",
+    "pre_travel": "1.8mm",
+    "total_travel": "3.3mm",
+    "mount": "Plate"
+  },
+  {
+    "model": "Outemu Silent Peach",
+    "feel": "Linear",
+    "actuation": "40g",
+    "pre_travel": "1.3mm",
+    "total_travel": "3.3mm",
+    "mount": "Plate"
+  },
+  {
+    "model": "Outemu Silent Sky",
+    "feel": "Silent Linear",
+    "actuation": "45g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "Outemu Silent White",
+    "feel": "Silent Linear",
+    "actuation": "45g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "Plate"
+  },
+  {
+    "model": "Outemu Silver",
+    "feel": "Tactile",
+    "actuation": "45g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "Plate"
+  },
+  {
+    "model": "Outemu Sky 62g",
+    "feel": "Tactile",
+    "actuation": "62g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "Outemu Sky 68g",
+    "feel": "Tactile",
+    "actuation": "68g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "Outemu Teal",
+    "feel": "Clicky",
+    "actuation": "70g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "Plate"
+  },
+  {
+    "model": "Outemu Transparent",
+    "feel": "Linear",
+    "actuation": "45g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "Plate"
+  },
+  {
+    "model": "Razer Analog Optical",
+    "feel": "Linear",
+    "actuation": "45g",
+    "pre_travel": "1.5mm",
+    "total_travel": "3.6mm",
+    "mount": "Plate"
+  },
+  {
+    "model": "Razer Green",
+    "feel": "Clicky",
+    "actuation": "50g",
+    "pre_travel": "1.9mm",
+    "total_travel": "4.0mm",
+    "mount": "Plate"
+  },
+  {
+    "model": "Razer Orange",
+    "feel": "Tactile",
+    "actuation": "45g",
+    "pre_travel": "1.9mm",
+    "total_travel": "4.0mm",
+    "mount": "Plate"
+  },
+  {
+    "model": "Razer Yellow",
+    "feel": "Linear",
+    "actuation": "45g",
+    "pre_travel": "1.2mm",
+    "total_travel": "3.5mm",
+    "mount": "Plate"
+  },
+  {
+    "model": "Razer Optical Clicky",
+    "feel": "Clicky",
+    "actuation": "45g",
+    "pre_travel": "1.5mm",
+    "total_travel": "3.5mm",
+    "mount": "Plate"
+  },
+  {
+    "model": "Razer Optical Linear",
+    "feel": "Linear",
+    "actuation": "40g",
+    "pre_travel": "1.5mm",
+    "total_travel": "3.5mm",
+    "mount": "Plate"
+  },
+  {
+    "model": "Redragon A113 Bullet-B Parrot",
+    "feel": "Clicky",
+    "actuation": "40g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "Plate"
+  },
+  {
+    "model": "Redragon A113 Bullet-F Wukong",
+    "feel": "Tactile",
+    "actuation": "50g",
+    "pre_travel": "1.8mm",
+    "total_travel": "3.3mm",
+    "mount": "Plate"
+  },
+  {
+    "model": "Redragon A113 Bullet-QL Peach",
+    "feel": "Linear",
+    "actuation": "40g",
+    "pre_travel": "2.0mm",
+    "total_travel": "3.3mm",
+    "mount": "Plate"
+  },
+  {
+    "model": "Redragon A113 Bullet-QT Lime",
+    "feel": "Tactile",
+    "actuation": "35g",
+    "pre_travel": "1.8mm",
+    "total_travel": "3.3mm",
+    "mount": "Plate"
+  },
+  {
+    "model": "Redragon A113 Bullet-R Neon",
+    "feel": "Linear",
+    "actuation": "40g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "Plate"
+  },
+  {
+    "model": "Redragon A113 Bullet-S Silver",
+    "feel": "Linear",
+    "actuation": "35g",
+    "pre_travel": "1.3mm",
+    "total_travel": "4.0mm",
+    "mount": "Plate"
+  },
+  {
+    "model": "RK x TTC Colorful Green",
+    "feel": "Linear",
+    "actuation": "41g",
+    "pre_travel": "1.9mm",
+    "total_travel": "4.0mm",
+    "mount": "Plate"
+  },
+  {
+    "model": "RK x TTC Colorful Red",
+    "feel": "Linear",
+    "actuation": "41g",
+    "pre_travel": "1.9mm",
+    "total_travel": "4.0mm",
+    "mount": "Plate"
+  },
+  {
+    "model": "RK x TTC Colorful Yellow",
+    "feel": "Linear",
+    "actuation": "41g",
+    "pre_travel": "1.9mm",
+    "total_travel": "4.0mm",
+    "mount": "Plate"
+  },
+  {
+    "model": "SP Star Ayara",
+    "feel": "Linear",
+    "actuation": "62g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "SP Star Luminous Cyber",
+    "feel": "Linear",
+    "actuation": "62g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "SP Star Duck",
+    "feel": "Tactile",
+    "actuation": "57g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "SP Star Polaris Grey",
+    "feel": "Tactile",
+    "actuation": "67g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "SP Star Magic Girl",
+    "feel": "Tactile",
+    "actuation": "67g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "SP Star Meteor Orange",
+    "feel": "Tactile",
+    "actuation": "57g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "SP Star Meteor White",
+    "feel": "Linear",
+    "actuation": "57g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "SP Star Polaris Purple",
+    "feel": "Tactile",
+    "actuation": "67g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "SP Star x Kon Momo",
+    "feel": "Tactile",
+    "actuation": "65g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "SP Star x Kon Nana",
+    "feel": "Linear",
+    "actuation": "65g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "SP Star Pink & Green",
+    "feel": "Linear",
+    "actuation": "48g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "SP Star Red & Blue",
+    "feel": "Linear",
+    "actuation": "57g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "SP Star Luminous Starry Night",
+    "feel": "Linear",
+    "actuation": "62g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "SP Star Polaris White",
+    "feel": "Linear",
+    "actuation": "57g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "SP Star Yanyu",
+    "feel": "Linear",
+    "actuation": "48g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "SteelSeries OmniPoint",
+    "feel": "Linear",
+    "actuation": "45g",
+    "pre_travel": "0.4mm",
+    "total_travel": "3.6mm",
+    "mount": "-"
+  },
+  {
+    "model": "SteelSeries QX2 Blue",
+    "feel": "Clicky",
+    "actuation": "45g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "-"
+  },
+  {
+    "model": "SteelSeries QX2 Brown",
+    "feel": "Tactile",
+    "actuation": "45g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "-"
+  },
+  {
+    "model": "SteelSeries QX2 Red",
+    "feel": "Linear",
+    "actuation": "45g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "-"
+  },
+  {
+    "model": "Tecsee Blue Sky Linear",
+    "feel": "Linear",
+    "actuation": "48g",
+    "pre_travel": "1.8mm",
+    "total_travel": "3.4mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "Tecsee Blue Sky Tactile",
+    "feel": "Tactile",
+    "actuation": "48g",
+    "pre_travel": "1.8mm",
+    "total_travel": "3.4mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "Tecsee Carrot",
+    "feel": "Linear",
+    "actuation": "55g",
+    "pre_travel": "2.0mm",
+    "total_travel": "3.5mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "Tecsee Coral",
+    "feel": "Tactile",
+    "actuation": "55g",
+    "pre_travel": "1.8mm",
+    "total_travel": "3.0mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "Tecsee Ice Candy",
+    "feel": "Linear",
+    "actuation": "55g",
+    "pre_travel": "2.1mm",
+    "total_travel": "3.8mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "Tecsee Ice Grape",
+    "feel": "Linear",
+    "actuation": "55g",
+    "pre_travel": "1.9mm",
+    "total_travel": "3.8mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "Tecsee Jadeite",
+    "feel": "Linear",
+    "actuation": "55g",
+    "pre_travel": "2.1mm",
+    "total_travel": "3.8mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "Tecsee Mango Ice",
+    "feel": "Tactile",
+    "actuation": "52g",
+    "pre_travel": "1.9mm",
+    "total_travel": "3.8mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "Tecsee Oreo",
+    "feel": "Linear",
+    "actuation": "55g",
+    "pre_travel": "1.9mm",
+    "total_travel": "3.8mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "Tecsee Purple Panda",
+    "feel": "Tactile",
+    "actuation": "55g",
+    "pre_travel": "2.0mm",
+    "total_travel": "3.0mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "Tecsee Ruby",
+    "feel": "Linear",
+    "actuation": "52g",
+    "pre_travel": "2.0mm",
+    "total_travel": "3.5mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "Tecsee Safety",
+    "feel": "Linear",
+    "actuation": "52g",
+    "pre_travel": "2.0mm",
+    "total_travel": "3.7mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "Tecsee Sapphire",
+    "feel": "Tactile",
+    "actuation": "52g",
+    "pre_travel": "2.0mm",
+    "total_travel": "3.0mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "Titan Linear",
+    "feel": "Linear",
+    "actuation": "45g",
+    "pre_travel": "1.4mm",
+    "total_travel": "3.6mm",
+    "mount": "Plate"
+  },
+  {
+    "model": "Titan Tactile",
+    "feel": "Tactile",
+    "actuation": "55g",
+    "pre_travel": "1.8mm",
+    "total_travel": "3.6mm",
+    "mount": "Plate"
+  },
+  {
+    "model": "Titan Optical Linear",
+    "feel": "Linear",
+    "actuation": "45g",
+    "pre_travel": "1.4mm",
+    "total_travel": "3.6mm",
+    "mount": "Plate"
+  },
+  {
+    "model": "Titan Optical Tactile",
+    "feel": "Tactile",
+    "actuation": "45g",
+    "pre_travel": "1.8mm",
+    "total_travel": "3.6mm",
+    "mount": "Plate"
+  },
+  {
+    "model": "Topre",
+    "feel": "Tactile",
+    "actuation": "30g+",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "Topre Silent",
+    "feel": "Silent Tactile",
+    "actuation": "30g+",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "TTC Ace",
+    "feel": "Linear",
+    "actuation": "60g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "TTC Bluish White",
+    "feel": "Tactile",
+    "actuation": "42g",
+    "pre_travel": "2.0mm",
+    "total_travel": "3.5mm",
+    "mount": "Plate"
+  },
+  {
+    "model": "TTC Chaotic Panda",
+    "feel": "Tactile",
+    "actuation": "55g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "TTC Cyber Panda",
+    "feel": "Tactile",
+    "actuation": "55g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "TTC Flame Red",
+    "feel": "Linear",
+    "actuation": "45g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "Plate"
+  },
+  {
+    "model": "TTC Frozen",
+    "feel": "Linear",
+    "actuation": "39g",
+    "pre_travel": "2.0mm",
+    "total_travel": "3.5mm",
+    "mount": "Plate"
+  },
+  {
+    "model": "TTC Gold Blue",
+    "feel": "Clicky",
+    "actuation": "37g",
+    "pre_travel": "2.2mm",
+    "total_travel": "3.5mm",
+    "mount": "Plate"
+  },
+  {
+    "model": "TTC Gold Brown",
+    "feel": "Tactile",
+    "actuation": "45g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "Plate"
+  },
+  {
+    "model": "TTC Gold Pink V2",
+    "feel": "Linear",
+    "actuation": "37g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "Plate"
+  },
+  {
+    "model": "TTC Gold Pink",
+    "feel": "Linear",
+    "actuation": "37g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "Plate"
+  },
+  {
+    "model": "TTC Gold Red",
+    "feel": "Linear",
+    "actuation": "50g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "Plate"
+  },
+  {
+    "model": "TTC Heroic Panda",
+    "feel": "Tactile",
+    "actuation": "55g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "TTC Hey",
+    "feel": "Linear",
+    "actuation": "50g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "TTC Honey",
+    "feel": "Linear",
+    "actuation": "42g",
+    "pre_travel": "2.0mm",
+    "total_travel": "3.8mm",
+    "mount": "Plate"
+  },
+  {
+    "model": "TTC Low Profile Blue",
+    "feel": "Clicky",
+    "actuation": "45g",
+    "pre_travel": "1.3mm",
+    "total_travel": "3.2mm",
+    "mount": "Plate"
+  },
+  {
+    "model": "TTC Low Profile Red",
+    "feel": "Linear",
+    "actuation": "45g",
+    "pre_travel": "1.2mm",
+    "total_travel": "3.2mm",
+    "mount": "Plate"
+  },
+  {
+    "model": "TTC Matrix Wild 42g",
+    "feel": "Linear",
+    "actuation": "42g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "TTC Matrix Wild 55g",
+    "feel": "Linear",
+    "actuation": "55g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "TTC NCR V2",
+    "feel": "Linear",
+    "actuation": "52g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "Plate"
+  },
+  {
+    "model": "TTC Silent Brown V2",
+    "feel": "Silent Tactile",
+    "actuation": "55g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "Plate"
+  },
+  {
+    "model": "TTC Silent Brown",
+    "feel": "Silent Tactile",
+    "actuation": "45g",
+    "pre_travel": "2.0mm",
+    "total_travel": "3.8mm",
+    "mount": "Plate"
+  },
+  {
+    "model": "TTC Silent Red",
+    "feel": "Silent Linear",
+    "actuation": "45g",
+    "pre_travel": "1.9mm",
+    "total_travel": "3.7mm",
+    "mount": "Plate"
+  },
+  {
+    "model": "TTC Speed Silver",
+    "feel": "Linear",
+    "actuation": "45g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "Plate"
+  },
+  {
+    "model": "TTC Tiger OG",
+    "feel": "Linear",
+    "actuation": "45g",
+    "pre_travel": "1.0mm",
+    "total_travel": "3.7mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "TTC Watermelon Milkshake",
+    "feel": "Tactile",
+    "actuation": "55g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "Plate"
+  },
+  {
+    "model": "TTC x Helix Lab Skylar",
+    "feel": "Clicky",
+    "actuation": "45g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "Plate"
+  },
+  {
+    "model": "Varmilo EC Daisy V2",
+    "feel": "Linear",
+    "actuation": "35g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "Plate"
+  },
+  {
+    "model": "Varmilo EC Ivy V2",
+    "feel": "Clicky",
+    "actuation": "50g",
+    "pre_travel": "2.3mm",
+    "total_travel": "4.0mm",
+    "mount": "Plate"
+  },
+  {
+    "model": "Varmilo EC Rose V2",
+    "feel": "Linear",
+    "actuation": "55g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "Plate"
+  },
+  {
+    "model": "Varmilo EC Sakura V2",
+    "feel": "Linear",
+    "actuation": "45g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "Plate"
+  },
+  {
+    "model": "YOK Mint Panda",
+    "feel": "Linear",
+    "actuation": "50g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "Plate"
+  },
+  {
+    "model": "YOK Polar Panda",
+    "feel": "Linear",
+    "actuation": "50g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "Plate"
+  },
+  {
+    "model": "YOK Purple Trash Panda",
+    "feel": "Tactile",
+    "actuation": "75g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "Plate"
+  },
+  {
+    "model": "YOK Red Panda",
+    "feel": "Linear",
+    "actuation": "50g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "Plate"
+  },
+  {
+    "model": "YOK Translucent Panda",
+    "feel": "Linear",
+    "actuation": "50g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "Plate"
+  },
+  {
+    "model": "YOK Trash Panda",
+    "feel": "Linear",
+    "actuation": "50g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "Plate"
+  },
+  {
+    "model": "YOK White Panda",
+    "feel": "Linear",
+    "actuation": "50g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "Plate"
+  },
+  {
+    "model": "Zeal Aqua Zilent 62g",
+    "feel": "Silent Tactile",
+    "actuation": "62g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "Zeal Aqua Zilent 67g",
+    "feel": "Silent Tactile",
+    "actuation": "67g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "Zeal Clickiez 40g",
+    "feel": "Clicky",
+    "actuation": "40g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "Zeal Clickiez 75g",
+    "feel": "Clicky",
+    "actuation": "75g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "Zeal Healio V2",
+    "feel": "Silent Linear",
+    "actuation": "63.5g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "Zeal Roselio",
+    "feel": "Silent Linear",
+    "actuation": "67g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "Zeal Sakurio",
+    "feel": "Silent Linear",
+    "actuation": "62g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "Zeal Tealio V2",
+    "feel": "Linear",
+    "actuation": "67g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "Zeal Turquoise Tealio 63.5g",
+    "feel": "Linear",
+    "actuation": "63.5g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "Zeal Turquoise Tealio 65g",
+    "feel": "Linear",
+    "actuation": "65g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "Zeal Zealio 62g V2",
+    "feel": "Tactile",
+    "actuation": "62g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "Zeal Zealio 65g V2",
+    "feel": "Tactile",
+    "actuation": "65g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "Zeal Zealio 67g V2",
+    "feel": "Tactile",
+    "actuation": "67g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "Zeal Zealio 78g V2",
+    "feel": "Tactile",
+    "actuation": "78g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "Zeal Zilent 62g V2",
+    "feel": "Silent Tactile",
+    "actuation": "62g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "Zeal Zilent 65g V2",
+    "feel": "Silent Tactile",
+    "actuation": "65g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "Zeal Zilent 67g V2",
+    "feel": "Silent Tactile",
+    "actuation": "67g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "PCB"
+  },
+  {
+    "model": "Zeal Zilent 78g V2",
+    "feel": "Silent Tactile",
+    "actuation": "78g",
+    "pre_travel": "2.0mm",
+    "total_travel": "4.0mm",
+    "mount": "PCB"
+  }
+]
