@@ -85,11 +85,11 @@ body {
 $bubble-count: 50;
 $sway-type: "sway-left-to-right", "sway-right-to-left";
 
-@function random_range($min, $max) {
-  $rand: random();
-  $random_range: $min +floor($rand * (($max - $min) + 1));
-  @return $random_range;
-}
+  @function random_range($min, $max) {
+    $rand: random();
+    $random_range: $min + floor($rand * (($max - $min) + 1));
+    @return $random_range;
+  }
 
 @function sample($list) {
   @return nth($list, random(length($list)));
