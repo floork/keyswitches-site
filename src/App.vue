@@ -36,31 +36,41 @@ import { onMounted, ref } from 'vue';
 import jsondata from './switches.json';
 
 class Switch {
-  constructor(model, feel, actuation, preTravel, totalTravel, mount) {
-    this.model = model;
-    this.feel = feel;
-    this.actuation = actuation;
-    this.preTravel = preTravel;
-    this.totalTravel = totalTravel;
-    this.mount = mount;
-  }
+  constructor(
+    public model: string,
+    public feel: string,
+    public actuation: string,
+    public preTravel: string,
+    public totalTravel: string,
+    public mount: string
+  ) { }
 }
 
-const switches = ref([]);
+const switches = ref<Switch[]>([]);
 const searchQuery = ref('');
-const filteredSwitches = ref([]);
+const filteredSwitches = ref<Switch[]>([]);
 const options = {
   keys: ['model', 'feel', 'actuation', 'preTravel', 'totalTravel', 'mount'],
   threshold: 0.3, // Adjust the threshold for fuzzy matching
 };
 
-function getData(){
-  switches.value = jsondata.map((data) => new Switch(data.model, data.feel, data.actuation, data.preTravel, data.totalTravel, data.mount));
+function getData() {
+  switches.value = jsondata.map(
+    (data: any) =>
+      new Switch(
+        data.model,
+        data.feel,
+        data.actuation,
+        data.pre_travel,
+        data.total_travel,
+        data.mount
+      )
+  );
 }
 
-function customSearch(query) {
+function customSearch(query: string) {
   const fuse = new Fuse(switches.value, options);
-  return fuse.search(query).map(result => result.item);
+  return fuse.search(query).map((result) => result.item);
 }
 
 function performSearch() {
@@ -72,8 +82,8 @@ onMounted(() => {
   getData();
   performSearch();
 });
-
 </script>
+
 
 
 <style lang="scss" >
